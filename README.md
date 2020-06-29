@@ -2,7 +2,7 @@
 the antinet, a more safe version of the internet, the only purpose of this repo is to have people download the antinet, if you want to add a website start a pull request, i mean
 you could see the source code if you want, but this repo exists for 2 functionalities, the ability to add a website, and download the project, you can see requirements:
 Hard Disk Requirements: 1KB
-Hard Disk Recommdations: 10KB
+Hard Disk Recommdations: atleast 10KB
 Why is this recommended?
 this is recommended because we are always updating the antinet and barely updating the readme file
 Program Requirements:Python
