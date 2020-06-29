@@ -1,0 +1,8 @@
+REQUIREMENTS!
+Minimum Disk Space Requirements: 2KB
+Recomended Disk Space:100KB and above
+Minimum OS Requirements: Windows 32 bit
+Recommended OS:Windows 64 bit
+Minumum Required Programs:Python3
+Recommended Programs:Python 3.8.2
+I might make a MacOS and Linux compatible, as i am trying to translate my browser into a bash script
